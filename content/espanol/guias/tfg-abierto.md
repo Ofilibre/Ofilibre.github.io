@@ -1,11 +1,10 @@
 ---
 title: Publicación del trabajo fin de grado en abierto
-logo: logo-ofilibre.png
 date: 2022-03-22
+logo: logo-ofilibre.png
 published: true
 type: guias
 ---
-
 [ ¡Publicación automática del TFG en abierto a partir del 13 de junio de 2023!: [Infografía resumen](/images/guias/tfg-abierto/publicar-tu-tfg-en-abierto.jpg) | [Video-píldora resumen](https://tv.urjc.es/video/64820d00f8ceb7023e4d5862) ]
 
 En la Universidad Rey Juan Carlos, los alumnos que realizan un
@@ -13,14 +12,9 @@ Trabajo Fin de Grado (TFG) pueden decidir que éstos se publiquen
 en acceso abierto en el Archivo Abierto de la Universidad
 ([BURJC Digital](https://burjcdigital.urjc.es/)).
 
-> “El depósito del TFG en la plataforma de la Universidad en
-> formato digital será obligatorio con fines de conservación
-> y archivo institucional.
-> Los estudiantes podrán autorizar la publicación en abierto
-> de sus trabajos, siempre y cuando no contengan información
-> confidencial.
-
->> Reglamento Marco de TFG, art 4.6 (22 mayo 2021)
+> “El TFG quedará depositado en la plataforma de recursos digitales de la Universidad con fines de conservación y archivo institucional. Los titulares de la autoría podrán autorizar la publicación en abierto del trabajo, siempre y cuando no contenga información confidencial (existencia de convenios de confidencialidad con empresas, posibilidad de generación de patentes, etc.). En estos casos, la Universidad podrá solicitar al autor un documento alternativo sin la información potencialmente confidencial."
+>
+> > [Reglamento Marco de TFG, art 4.5](https://www.urjc.es/images/Intranet/TFG/reglamento.pdf) (26 mayo 2023)
 
 Puedes publicar en acceso abierto la memoria de tu TFG,
 y también datos y otros materiales que puedan estar
@@ -34,11 +28,11 @@ Si decides publicar la memoria de tu TFG en acceso abierto,
 tendrás que seguir los siguientes pasos:
 
 * Comprobar que todo lo que hay en tu memoria ha sido
-realizado por ti, o que tienes permiso para publicar en
-acceso abierto los elementos de terceros que hayas
-podido utilizar.
+  realizado por ti, o que tienes permiso para publicar en
+  acceso abierto los elementos de terceros que hayas
+  podido utilizar.
 * Elegir la licencia de distribución de tu memoria, entre
-las que se consideran como de acceso abierto.
+  las que se consideran como de acceso abierto.
 * Marcar la memoria con la licencia elegida.
 * Publicar la memoria en el Archivo Abierto de la Universidad. Desde el 13 de junio de 2023 este es un proceso automático, que se realiza al subir la memoria a la plataforma de TFGs.
 
@@ -84,11 +78,11 @@ es posible que te puedas acoger al derecho de cita.
 > o de investigación, en la medida justificada por el fin
 > de esa incorporación e indicando la fuente y el nombre
 > del autor de la obra utilizada. 
-
->> [Texto Refundido de la Ley de Propiedad Intelectual](https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930),
->> Real Decreto Legislativo 1/1996, de 12 de abril
->> (Artículo 32: Citas y reseñas e ilustración con fines
->> educativos o de investigación científica, Apartado 1)
+>
+> > [Texto Refundido de la Ley de Propiedad Intelectual](https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930),
+> > Real Decreto Legislativo 1/1996, de 12 de abril
+> > (Artículo 32: Citas y reseñas e ilustración con fines
+> > educativos o de investigación científica, Apartado 1)
 
 Ten en cuenta también que puede haber razones académicas
 por las que puede no ser conveniente incluir ciertas
@@ -128,31 +122,30 @@ abierto. Por ejemplo, la declaración de Berlin sobre
 Acceso Abierto indica que para que una obra se considere
 publicada en acceso abierto:
 
-> "El (los) autor(es) [...] deben garantizar el derecho gratuito,
+> "El (los) autor(es) \[...] deben garantizar el derecho gratuito,
 > irrevocable y mundial de acceder al  trabajo, y licencia
 > para copiarlo, usarlo, distribuirlo, transmitirlo y exhibirlo
-> públicamente, y para hacer y distribuir trabajos derivados […]''
-
->> [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration), 
->> 22 de octubre de 2003
+> públicamente, y para hacer y distribuir trabajos derivados \[…]''
+>
+> > [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration), 
+> > 22 de octubre de 2003
 
 El Consejo de Publicación Abierta de la URJC ha reconocido
 como licencias de acceso abierto las siguientes (que cumplen
 las definiciones más habituales de acceso abierto):
 
 * [Creative Commons Atribución](https://creativecommons.org/licenses/by/4.0/deed.es).
-En resumen, esta licencia permite compartir (copiar y redistribuir
-la obra en cualquier medio y formato), y adaptar (remezclar, transformar
-y construir a partir del material para cualquier propósito,
-incluso comercialmente) la obra, siempre que se atribuya correctamente
-(se de crédito de manera adecuada, incluyendo un enlace a la licencia,
-e indicando si se han realizado cambios a la obra).
-
+  En resumen, esta licencia permite compartir (copiar y redistribuir
+  la obra en cualquier medio y formato), y adaptar (remezclar, transformar
+  y construir a partir del material para cualquier propósito,
+  incluso comercialmente) la obra, siempre que se atribuya correctamente
+  (se de crédito de manera adecuada, incluyendo un enlace a la licencia,
+  e indicando si se han realizado cambios a la obra).
 * [Creative Commons Atribución-CompartirIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
-En resumen, esta licencia permite lo mismo que lo anterior, con la misma
-condición de atribución, pero además incluyendo la condición de
-"CompartirIgual" (si se remezcla, transforma o crea a partir de la obra,
-se debe distribuir la nueva obra bajo la misma licencia original). 
+  En resumen, esta licencia permite lo mismo que lo anterior, con la misma
+  condición de atribución, pero además incluyendo la condición de
+  "CompartirIgual" (si se remezcla, transforma o crea a partir de la obra,
+  se debe distribuir la nueva obra bajo la misma licencia original). 
 
 Dicho en otras palabras, quien reciba una obra con una licencia
 "CC Atribución" puede realizar obras derivadas, y distribuir estas
@@ -174,12 +167,14 @@ Una vez sabemos qué licencia vamos a usar, tenemos que marcar
 la memoria con esa licencia. Para ello, pondremos en la memoria
 un texto similar a este:
 
-    ©2021 Autora Mengánez Zutánez  
-    Algunos derechos reservados  
-    Este documento se distribuye bajo la licencia  
-    “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
-    disponible en  
-    https://creativecommons.org/licenses/by-sa/4.0/deed.es
+```
+©2021 Autora Mengánez Zutánez  
+Algunos derechos reservados  
+Este documento se distribuye bajo la licencia  
+“Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
+disponible en  
+https://creativecommons.org/licenses/by-sa/4.0/deed.es
+```
 
 Normalmente, este texto se pone en una de las primeras páginas
 de la memoria, en el mismo sitio que suele verse en los libros
@@ -211,8 +206,8 @@ Mientras la plataforma de TFGs no esté conectada con
 el Archivo Abierto, hay que hacer el depósito en el Archivo
 Abierto manualmente. Para ello, una vez el TFG ha sido
 evaluado positivamente, se seguirán las instrucciones
-descritas en ["Cómo publicar"](https://burjcdigital.urjc.es/page/howtopublish)
-en el [sitio web de BURJC Digital](https://burjcdigital.urjc.es).
+descritas en \["Cómo publicar"](https://burjcdigital.urjc.es/page/howtopublish)
+en el \[sitio web de BURJC Digital](https://burjcdigital.urjc.es).
 Junto con la memoria en formato PDF se puede (y es conveniente) depositar
 otros materiales relacionados con el TFG, en un archivo ZIP.
 Por ejemplo, se puede depositar la memoria en formato editable
@@ -238,6 +233,3 @@ buscadores bibliográficos, y también buscadores generalistas.
 Con esto, la memoria del TFG (y los materiales depositados con ella)
 pasarán a formar parte del conocimiento universal publicado en
 acceso abierto, y quedará a disposición de toda la humanidad.
-
-
-
