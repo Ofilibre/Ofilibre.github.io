@@ -9,7 +9,7 @@ categories:
 tags:
   - Acceso abierto
   - URJC
-bg_image: /images/blog/Christmas_OfiLibre_2_.jpg
+bg_image: /images/blog/Christmas_OfiLibre_2_.jpg 
 thumb: /images/blog/Christmas_OfiLibre_2_.jpg
 ---
 
@@ -18,7 +18,7 @@ Querida comunidad universitaria:
 
 Desde la OfiLibre, perteneciente al Vicerrectorado de Comunidad Campus, Cultura y Deporte queremos desearos un 2024 lleno de materiales libres, muchas publicaciones en abierto, que uséis software libre y reaprovechéis los datos abiertos.
 
-![imagen Feliz 2024 de Christmas_OfiLibre_2_](/images/blog/Christmas_OfiLibre_2_.jpg "Webquest en el aula")
+![Christmas_OfiLibre_2_](/images/blog/Christmas_OfiLibre_2_.jpg)
 
 Y para abrir boca, os dejamos algunos materiales que hemos ido haciendo a lo largo de este curso:
 
