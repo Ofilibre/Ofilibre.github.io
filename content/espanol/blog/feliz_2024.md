@@ -23,7 +23,7 @@ Y para abrir boca, os dejamos algunos materiales que hemos ido haciendo a lo lar
 Asignaturas en abierto: Guía y convocatoria.
 Sexenios y los depósitos en biblioteca: Vídeo café con Aneca y Vídeo Café con Biblioteca.
 TFG en abierto: Vídeo café con estudiantes de TFG y Guía.
-Revistas en abierto: Vídeo café sobre revistas y Guía.
+Revistas en abierto: [Vídeo café sobre revistas] (https://tv.urjc.es/video/65814c34f8ceb7f95772f4a2) y [Guía] (https://ofilibre.urjc.es/blog/convocatoria-revistas/).
 
 
 
