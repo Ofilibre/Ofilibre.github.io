@@ -18,7 +18,7 @@ Querida comunidad universitaria:
 
 Desde la OfiLibre, perteneciente al Vicerrectorado de Comunidad Campus, Cultura y Deporte queremos desearos un 2024 lleno de materiales libres, muchas publicaciones en abierto, que uséis software libre y reaprovechéis los datos abiertos.
 
-![Christmas_OfiLibre_2_](/images/blog/Christmas_OfiLibre_2_.jpg){width: 50%}
+![PEQUEÑO_2_Christmas_](/images/blog/PEQUEÑO_2_Christmas_.jpg)
 
 Y para abrir boca, os dejamos algunos materiales que hemos ido haciendo a lo largo de este curso:
 
