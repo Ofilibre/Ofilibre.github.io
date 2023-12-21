@@ -1,7 +1,7 @@
 ---
 title: Feliz 2024
 date: 2023-12-21
-slug: 2023-11-12-acceso-abierto
+slug: 2023-12-21-feliz-2024
 description: "Felicitación por el nuevo año"
 type: post
 categories:
