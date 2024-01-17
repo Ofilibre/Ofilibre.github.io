@@ -156,6 +156,19 @@ weight = 2
 name = "Acciones"
 url = "acciones"
 weight = 3
+hasChildren = true
+
+  [[Languages.es.menu.main]]
+  parent="Acciones"
+  name="Cafe con la OfiLibre"
+  url="https://ofilibre.github.io/acciones/cafes/"
+
+  [[Languages.es.menu.main]]
+  parent="Acciones"
+  name="Asignaturas en Abierto"
+  url="https://ofilibre.github.io/acciones/asignaturas-en-abierto/"
+  
+  
 
 [[Languages.es.menu.main]]
 weight = 4
