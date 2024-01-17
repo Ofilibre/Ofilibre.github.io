@@ -154,7 +154,6 @@ weight = 2
 
 [[Languages.es.menu.main]]
 name = "Acciones"
-url = "acciones"
 weight = 3
 hasChildren = true
 
@@ -167,6 +166,11 @@ hasChildren = true
   parent="Acciones"
   name="Asignaturas en Abierto"
   url="https://ofilibre.github.io/acciones/asignaturas-en-abierto/"
+
+  [[Languages.es.menu.main]]
+  parent="Acciones"
+  name="Todas las Acciones"
+  url="acciones"
   
   
 
