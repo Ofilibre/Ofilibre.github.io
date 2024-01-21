@@ -51,6 +51,24 @@ Archivo institucional de la URJC:
 * [BURJC Digital](https://burjcdigital.urjc.es)
 * [Página para subir documentos a BURJC Digital](https://burjcdigital.urjc.es/submit)
 
+Documentos de ayuda  preparadas por Biblioteca de la URJC:
+
+* [Nuevos criterios de evaluación de la Convocatoria 2023 de Sexenios de Investigación (documento de ayuda para el PDI de la URJC)](/images/guias/sexenios_ciencia_abierta/DOCUMENTOAYUDA_PDI_INFORME_21122023.pdf)
+* [Sexenios 2023, principales cambios](/images/guias/sexenios_ciencia_abierta/SEXENIOS_2023.pdf) (infografía)
+* [Cómo añadir aportaciones a BURJC Digital](/images/guias/sexenios_ciencia_abierta/COMO_ANADIR_OBRAS_A_BURJC_DIGITAL_2.pdf) (infografía)
+* [Cinco pasos para subir una publicación a BURJC Digital](/images/guias/sexenios_ciencia_abierta/5PASOS_INFOGRAFIA.pdf) (infografía)
+* [¿Qué metadatos de mi publicación necesito subir al repositorio?](/images/guias/sexenios_ciencia_abierta/METADATOS_INFOGRAFIA.pdf) (infografía)
+
+Otros documentos e información de ayuda:
+
+* [Artículo de Manuel Gertrudix sobre sexenios](https://ciberimaginario.es/2023/12/07/sexenios-2023-recursos-para-hacer-la-bibliometria-narrativa/)
+
+* Bibliometría Narrativa: aplicaciones para la defensa de currículos y aportaciones científicas en el marco de CoARA y ANECA - Sexenios, con Daniel Torres-Salinas y Wenceslao Arroyo-Machado (Departamento de Información y Comunicación, Universidad de Granada)
+  * [Video](https://youtu.be/nuaOz2duw2w)
+  * [Presentación](https://zenodo.org/records/10089106)
+
+* [Resumen de la Universidad de Málaga sobre bibliometría narrativa y sexenios](https://biblioguias.uma.es/c.php?g=676474&p=5178748)
+
 ## Aspectos de la convocatoria relacionados con ciencia abierta
 
 * Apartados fundamentales de los documentos relacionados con la convocatoria:
