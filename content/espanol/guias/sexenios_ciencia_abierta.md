@@ -53,12 +53,12 @@ Archivo institucional de la URJC:
 
 Documentos de ayuda  preparadas por Biblioteca de la URJC:
 
+* [Recursos para encontrar indicios de calidad en mis publicaciones en Acreditaciones y Sexenios](Recursos_Indicios_Sexenios.pdf) (presentación)
 * [Nuevos criterios de evaluación de la Convocatoria 2023 de Sexenios de Investigación (documento de ayuda para el PDI de la URJC)](/images/guias/sexenios_ciencia_abierta/DOCUMENTOAYUDA_PDI_INFORME_21122023.pdf)
 * [Sexenios 2023, principales cambios](/images/guias/sexenios_ciencia_abierta/SEXENIOS_2023.pdf) (infografía)
 * [Cómo añadir aportaciones a BURJC Digital](/images/guias/sexenios_ciencia_abierta/COMO_ANADIR_OBRAS_A_BURJC_DIGITAL_2.pdf) (infografía)
 * [Cinco pasos para subir una publicación a BURJC Digital](/images/guias/sexenios_ciencia_abierta/5PASOS_INFOGRAFIA.pdf) (infografía)
 * [¿Qué metadatos de mi publicación necesito subir al repositorio?](/images/guias/sexenios_ciencia_abierta/METADATOS_INFOGRAFIA.pdf) (infografía)
-* [Recursos para encontrar indicios de calidad en mis publicaciones en Acreditaciones y Sexenios](Recursos_Indicios_Sexenios.pdf) (presentación)
 
 Otros documentos e información de ayuda:
 
