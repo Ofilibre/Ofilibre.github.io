@@ -61,6 +61,7 @@ Documentos de ayuda  preparadas por Biblioteca de la URJC:
 
 Otros documentos e información de ayuda:
 
+* [Recomendaciones de REBUIN para depósito de aportaciones](/images/guias/sexenios_ciencia_abierta/Recomendaciones_REBUIN.png)
 * [Artículo de Manuel Gertrudix sobre sexenios](https://ciberimaginario.es/2023/12/07/sexenios-2023-recursos-para-hacer-la-bibliometria-narrativa/)
 
 * Bibliometría Narrativa: aplicaciones para la defensa de currículos y aportaciones científicas en el marco de CoARA y ANECA - Sexenios, con Daniel Torres-Salinas y Wenceslao Arroyo-Machado (Departamento de Información y Comunicación, Universidad de Granada)
