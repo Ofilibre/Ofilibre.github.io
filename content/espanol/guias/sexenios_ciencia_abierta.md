@@ -58,6 +58,7 @@ Documentos de ayuda  preparadas por Biblioteca de la URJC:
 * [Cómo añadir aportaciones a BURJC Digital](/images/guias/sexenios_ciencia_abierta/COMO_ANADIR_OBRAS_A_BURJC_DIGITAL_2.pdf) (infografía)
 * [Cinco pasos para subir una publicación a BURJC Digital](/images/guias/sexenios_ciencia_abierta/5PASOS_INFOGRAFIA.pdf) (infografía)
 * [¿Qué metadatos de mi publicación necesito subir al repositorio?](/images/guias/sexenios_ciencia_abierta/METADATOS_INFOGRAFIA.pdf) (infografía)
+* [Recursos para encontrar indicios de calidad en mis publicaciones en Acreditaciones y Sexenios](Recursos_Indicios_Sexenios.pdf) (presentación)
 
 Otros documentos e información de ayuda:
 
